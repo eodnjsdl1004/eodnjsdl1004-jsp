@@ -1,0 +1,2 @@
+연체료 = ( re_Date-(lend_Date+7)    )*count
+

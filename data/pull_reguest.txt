@@ -1,0 +1,9 @@
+1. 나의 로컬저장소에서 remote를 추가
+2. master로 바꾸고 pull로 메인 repository를 당긴다
+3. comflict가 발생하면 fetch_head에 임시코드를 저장해줌
+4. FETCH_HEAD에 checkout하고 (새로운 브렌치를 생성)
+5.master와 새로운 브렌치를 merge함
+6.git push origin master로 원격저장소에 반영
+
+rebase
+git log --all --decorate --graph --oneline

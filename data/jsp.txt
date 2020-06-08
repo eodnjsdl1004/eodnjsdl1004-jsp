@@ -1,0 +1,15 @@
+파일 옮겼을때 에러 해결법
+
+project 우클릭 build path에서 Library에서 
+자바 버전 설정 확인
+
+
+project facets runtime에서
+tomcat 버전 확인
+
+validate 확인
+
+
+
+https://git-scm.com/download/win
+
